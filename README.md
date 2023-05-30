@@ -1,10 +1,10 @@
 # strapi-provider-upload-imagekit
-![version v4.0.2](https://img.shields.io/badge/Version-4.0.2-956fff "version v4.0.2")
+![version v4.1.3](https://img.shields.io/badge/Version-4.0.2-956fff "version v4.1.3")
 
 ## Notes
 ### ImageKit provider for the Strapi Upload plugin
-- Current version: `4.0.2`
-- Compatible with Strapi version: `^4.0.0`
+- Current version: `4.1.3`
+- Compatible with Strapi version: `^4.1.3`
   - Latest tested version `4.0.7`
 
 :exclamation: `MAYOR` and `MINOR` versions of the provider are representing compatability with Strapi, while the `PATCH` version is used to denote changes in the provider itself.

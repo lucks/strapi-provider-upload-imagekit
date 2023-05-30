@@ -1,18 +1,18 @@
 {
   "name": "strapi-provider-upload-imagekit",
   "description": "ImageKit provider for strapi upload",
-  "version": "4.0.2",
+  "version": "4.1.3",
   "main": "./lib",
   "dependencies": {
-    "imagekit": "^3.2.3"
+    "imagekit": "^4.1.3"
   },
   "devDependencies": {
     "eslint": "^7.2.0"
   },
   "author": {
-    "name": "Denis Šaško",
-    "email": "denissasko@gmail.com",
-    "url": "https://dsasko.github.io/"
+    "name": "Lucks",
+    "email": "lucks17@gmail.com",
+    "url": "https://lucks.github.io/"
   },
   "keywords": [
     "upload",
@@ -20,15 +20,15 @@
     "strapi"
   ],
   "engines": {
-    "node": ">=12.x.x <=16.x.x",
+    "node": ">=16.x.x <=18.x.x",
     "npm": ">=6.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dsasko/strapi-provider-upload-imagekit.git"
+    "url": "git://github.com/lucks/strapi-provider-upload-imagekit.git"
   },
   "bugs": {
-    "url": "https://github.com/dsasko/strapi-provider-upload-imagekit/issues"
+    "url": "https://github.com/lucks/strapi-provider-upload-imagekit/issues"
   },
   "strapi": {
     "isProvider": true
