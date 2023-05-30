@@ -1,5 +1,5 @@
 # strapi-provider-upload-imagekit
-![version v4.1.3](https://img.shields.io/badge/Version-4.0.2-956fff "version v4.1.3")
+![version v4.1.3](https://img.shields.io/badge/Version-4.1.3-956fff "version v4.1.3")
 
 ## Notes
 ### ImageKit provider for the Strapi Upload plugin
